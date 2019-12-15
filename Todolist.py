@@ -1,3 +1,8 @@
+"""
+heuashuidash
+"""
+
+
 lista = [] # create empty list
  
 first_num = input('O que você tem que fazer? ')
